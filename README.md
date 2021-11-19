@@ -11,7 +11,7 @@ The dataset was derived under the publication: https://research.ece.ncsu.edu/aro
 TODO: 
 
 ## Google Colab Workspace  
-[TODO:]()
+https://drive.google.com/drive/folders/1QHezp69uA-0j7emzZrvkpT486M6ozoXL?usp=sharing
 
 ## Requirements
 Specific libraries used in the final model are included in `requirements.txt`, which are:
