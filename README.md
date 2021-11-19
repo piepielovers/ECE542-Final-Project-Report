@@ -14,13 +14,4 @@ TODO:
 https://drive.google.com/drive/folders/1QHezp69uA-0j7emzZrvkpT486M6ozoXL?usp=sharing
 
 ## Requirements
-Specific libraries used in the final model are included in `requirements.txt`, which are:
-```
-numpy==1.18.5
-pandas==1.2.4
-scikit_learn==1.0.1
-tensorflow==2.1.0
-tensorflow_addons==0.9.1
-```
-
-To replicate the entire conda environment, use `env_requirements.txt`.
+The library dependencies of our environment is listed under [requirements.txt](requirements.txt).
