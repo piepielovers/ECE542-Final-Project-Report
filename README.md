@@ -7,8 +7,7 @@ The dataset was derived under the publication: https://research.ece.ncsu.edu/aro
 - Jeremy Park
 - Tyrone Wu
 
-## Final Report  
-TODO: 
+## [Final Report](https://github.com/piepielovers/ECE542-Project-Competition/blob/main/reports/Team%2005%20-%20ProjC2%20Report.pdf)
 
 ## Google Colab Workspace  
 https://drive.google.com/drive/folders/1QHezp69uA-0j7emzZrvkpT486M6ozoXL?usp=sharing
