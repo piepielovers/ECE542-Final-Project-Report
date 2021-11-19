@@ -13,7 +13,7 @@ TODO:
 [TODO:]()
 
 ## Requirements
-Specific library dependencies of the final model are in `requirements.txt`:
+Specific libraries used in the final model are included in `requirements.txt`, which are:
 ```
 numpy==1.18.5
 pandas==1.2.4
