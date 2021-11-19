@@ -6,7 +6,7 @@ Project Competition for ECE542 - Neural Networks and Deep Learning
 - Jeremy Park
 - Tyrone Wu
 
-## Final Competition Report  
+## Final Report  
 TODO: 
 
 ## Google Colab Workspace  
