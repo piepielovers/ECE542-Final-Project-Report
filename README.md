@@ -1,5 +1,6 @@
 # ECE542-Project-Competition
-Project Competition for ECE542 - Neural Networks and Deep Learning
+Project Competition for ECE542 - Neural Networks and Deep Learning  
+The dataset was derived under the publication: https://research.ece.ncsu.edu/aros/paper-tase2020-lowerlimb/  
 
 ## Team 05
 - Matthew Houk
